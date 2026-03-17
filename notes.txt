@@ -1,1 +1,3 @@
 Step 1: Learning Git and GitHub
+
+Git tracks file changes over time.
